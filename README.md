@@ -32,7 +32,7 @@
 <h3 align="center">GIT CLI TOOL</h3>
 
   <p align="center">
-    project_description
+    Cli tool to manage versions of npm modules for projects kept on github.
     <br />
     <a href="#Working"><strong>Explore the docs »</strong></a>
     <br />
